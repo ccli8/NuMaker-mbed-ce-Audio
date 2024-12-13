@@ -1,5 +1,5 @@
-# NuMaker-mbed-Audio
-This library contains Mbed implementation of NuMaker Audio I2S and Codec.
+# NuMaker-mbed-ce-Audio
+This library contains Mbed CE implementation of NuMaker Audio I2S and Codec.
 
 ### Example: Play PCM data from SD card
 
